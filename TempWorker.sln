@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempWorker", "TempWorker\TempWorker.csproj", "{DD306758-CE70-495F-9014-67E2666096B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempWorker.Tests", "TempWorker.Tests\TempWorker.Tests.csproj", "{145942F1-323A-4366-88A0-B6D4C7BB4D3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD306758-CE70-495F-9014-67E2666096B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD306758-CE70-495F-9014-67E2666096B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD306758-CE70-495F-9014-67E2666096B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD306758-CE70-495F-9014-67E2666096B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{145942F1-323A-4366-88A0-B6D4C7BB4D3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{145942F1-323A-4366-88A0-B6D4C7BB4D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{145942F1-323A-4366-88A0-B6D4C7BB4D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{145942F1-323A-4366-88A0-B6D4C7BB4D3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF944801-C3B6-4E00-A8AB-A61104AA20E9}
+	EndGlobalSection
+EndGlobal
